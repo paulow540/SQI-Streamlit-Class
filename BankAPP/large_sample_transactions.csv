@@ -1,0 +1,301 @@
+Date,Details,Amount,Currency,Debit/Credit,Status
+2025-05-28,Travel,496.73,USD,Debit,Pending
+2025-05-27,Amazon,760.44,USD,Debit,Completed
+2025-05-26,Amazon,272.26,USD,Credit,Failed
+2025-05-25,Amazon,864.07,NGN,Credit,Pending
+2025-05-24,Amazon,435.6,USD,Credit,Completed
+2025-05-23,Amazon,215.71,EUR,Credit,Completed
+2025-05-22,Card Payment,816.94,NGN,Credit,Completed
+2025-05-21,Card Payment,22.79,NGN,Debit,Failed
+2025-05-20,Amazon,785.11,NGN,Debit,Pending
+2025-05-19,Travel,156.85,NGN,Credit,Completed
+2025-05-18,Card Payment,677.27,USD,Credit,Pending
+2025-05-17,Card Payment,999.72,USD,Debit,Pending
+2025-05-16,Amazon,853.8,NGN,Debit,Completed
+2025-05-15,Card Payment,812.23,NGN,Debit,Completed
+2025-05-14,Card Payment,525.45,EUR,Debit,Failed
+2025-05-13,Travel,645.59,USD,Credit,Completed
+2025-05-12,Amazon,616.24,USD,Credit,Completed
+2025-05-11,Card Payment,842.44,EUR,Credit,Failed
+2025-05-10,Travel,625.46,USD,Credit,Completed
+2025-05-09,Travel,859.43,EUR,Debit,Pending
+2025-05-08,Card Payment,455.11,NGN,Debit,Failed
+2025-05-07,Travel,942.12,EUR,Debit,Completed
+2025-05-06,Travel,783.02,USD,Credit,Failed
+2025-05-05,Amazon,450.6,NGN,Debit,Completed
+2025-05-04,Card Payment,292.04,EUR,Credit,Pending
+2025-05-03,Travel,448.95,EUR,Debit,Pending
+2025-05-02,Travel,759.51,NGN,Debit,Completed
+2025-05-01,Travel,607.17,USD,Credit,Pending
+2025-04-30,Card Payment,468.61,USD,Credit,Failed
+2025-04-29,Amazon,111.27,NGN,Debit,Completed
+2025-04-28,Travel,850.97,NGN,Credit,Completed
+2025-04-27,Card Payment,350.89,EUR,Debit,Pending
+2025-04-26,Amazon,829.59,NGN,Debit,Completed
+2025-04-25,Travel,894.45,EUR,Credit,Pending
+2025-04-24,Amazon,486.28,EUR,Debit,Pending
+2025-04-23,Travel,582.98,NGN,Debit,Completed
+2025-04-22,Card Payment,765.36,NGN,Debit,Pending
+2025-04-21,Amazon,967.68,NGN,Credit,Pending
+2025-04-20,Travel,252.19,USD,Debit,Failed
+2025-04-19,Travel,189.11,EUR,Debit,Failed
+2025-04-18,Amazon,873.93,USD,Credit,Pending
+2025-04-17,Travel,858.0,NGN,Credit,Completed
+2025-04-16,Card Payment,104.42,USD,Credit,Failed
+2025-04-15,Travel,423.04,NGN,Debit,Failed
+2025-04-14,Amazon,465.52,USD,Credit,Pending
+2025-04-13,Card Payment,774.67,USD,Credit,Completed
+2025-04-12,Card Payment,499.06,EUR,Debit,Failed
+2025-04-11,Travel,20.0,USD,Credit,Failed
+2025-04-10,Travel,264.83,USD,Credit,Pending
+2025-04-09,Travel,773.05,EUR,Debit,Failed
+2025-04-08,Card Payment,815.75,NGN,Credit,Failed
+2025-04-07,Amazon,859.89,EUR,Debit,Pending
+2025-04-06,Amazon,962.51,USD,Debit,Failed
+2025-04-05,Amazon,235.76,EUR,Credit,Completed
+2025-04-04,Travel,656.88,USD,Debit,Pending
+2025-04-03,Card Payment,319.07,NGN,Credit,Completed
+2025-04-02,Amazon,209.62,USD,Credit,Pending
+2025-04-01,Amazon,967.35,NGN,Credit,Completed
+2025-03-31,Card Payment,813.05,NGN,Debit,Failed
+2025-03-30,Card Payment,910.47,EUR,Credit,Completed
+2025-03-29,Card Payment,583.61,EUR,Credit,Failed
+2025-03-28,Travel,270.44,EUR,Debit,Pending
+2025-03-27,Amazon,30.76,USD,Debit,Pending
+2025-03-26,Travel,449.85,EUR,Credit,Failed
+2025-03-25,Travel,351.04,EUR,Debit,Failed
+2025-03-24,Card Payment,476.16,NGN,Credit,Completed
+2025-03-23,Card Payment,27.44,EUR,Credit,Pending
+2025-03-22,Travel,980.19,EUR,Credit,Pending
+2025-03-21,Amazon,771.82,EUR,Debit,Failed
+2025-03-20,Amazon,176.41,NGN,Debit,Completed
+2025-03-19,Travel,846.66,EUR,Debit,Completed
+2025-03-18,Card Payment,919.75,EUR,Credit,Failed
+2025-03-17,Amazon,56.25,NGN,Credit,Failed
+2025-03-16,Amazon,894.66,EUR,Debit,Completed
+2025-03-15,Card Payment,877.61,USD,Debit,Completed
+2025-03-14,Travel,884.5,EUR,Debit,Pending
+2025-03-13,Amazon,353.76,NGN,Credit,Failed
+2025-03-12,Travel,575.37,USD,Credit,Completed
+2025-03-11,Amazon,670.64,NGN,Credit,Failed
+2025-03-10,Amazon,362.68,EUR,Credit,Completed
+2025-03-09,Amazon,938.6,EUR,Credit,Completed
+2025-03-08,Card Payment,693.46,EUR,Credit,Pending
+2025-03-07,Card Payment,301.58,NGN,Debit,Pending
+2025-03-06,Travel,535.16,USD,Debit,Completed
+2025-03-05,Card Payment,984.79,USD,Debit,Pending
+2025-03-04,Amazon,871.48,NGN,Credit,Pending
+2025-03-03,Card Payment,502.25,EUR,Debit,Completed
+2025-03-02,Card Payment,14.84,USD,Debit,Completed
+2025-03-01,Travel,915.46,EUR,Credit,Failed
+2025-02-28,Amazon,887.12,EUR,Credit,Completed
+2025-02-27,Card Payment,130.17,USD,Credit,Completed
+2025-02-26,Card Payment,907.13,USD,Debit,Completed
+2025-02-25,Travel,220.9,EUR,Debit,Failed
+2025-02-24,Travel,653.27,USD,Credit,Pending
+2025-02-23,Card Payment,12.96,NGN,Credit,Pending
+2025-02-22,Travel,346.51,NGN,Credit,Failed
+2025-02-21,Card Payment,679.0,EUR,Debit,Pending
+2025-02-20,Amazon,320.04,EUR,Credit,Completed
+2025-02-19,Amazon,853.11,NGN,Debit,Pending
+2025-02-18,Travel,478.16,USD,Credit,Completed
+2025-02-17,Card Payment,169.33,USD,Debit,Completed
+2025-02-16,Card Payment,403.31,USD,Debit,Failed
+2025-02-15,Amazon,293.43,USD,Credit,Completed
+2025-02-14,Card Payment,319.08,USD,Debit,Completed
+2025-02-13,Amazon,624.61,EUR,Credit,Failed
+2025-02-12,Travel,499.77,USD,Credit,Pending
+2025-02-11,Card Payment,477.73,NGN,Credit,Pending
+2025-02-10,Travel,955.94,NGN,Debit,Pending
+2025-02-09,Card Payment,443.4,EUR,Debit,Pending
+2025-02-08,Travel,953.3,EUR,Credit,Pending
+2025-02-07,Amazon,816.59,USD,Credit,Failed
+2025-02-06,Travel,597.71,NGN,Credit,Completed
+2025-02-05,Travel,139.66,EUR,Credit,Failed
+2025-02-04,Card Payment,866.6,EUR,Debit,Failed
+2025-02-03,Travel,103.57,EUR,Debit,Pending
+2025-02-02,Amazon,934.66,USD,Credit,Pending
+2025-02-01,Amazon,287.12,USD,Credit,Failed
+2025-01-31,Travel,347.01,USD,Debit,Failed
+2025-01-30,Travel,139.25,NGN,Credit,Completed
+2025-01-29,Amazon,782.47,NGN,Credit,Failed
+2025-01-28,Amazon,818.99,NGN,Credit,Pending
+2025-01-27,Amazon,141.76,NGN,Credit,Completed
+2025-01-26,Amazon,169.46,USD,Debit,Failed
+2025-01-25,Card Payment,445.12,EUR,Credit,Failed
+2025-01-24,Travel,855.99,EUR,Debit,Failed
+2025-01-23,Amazon,778.83,EUR,Credit,Pending
+2025-01-22,Card Payment,647.87,EUR,Credit,Pending
+2025-01-21,Amazon,761.98,NGN,Credit,Failed
+2025-01-20,Amazon,249.02,NGN,Credit,Failed
+2025-01-19,Card Payment,116.56,USD,Debit,Pending
+2025-01-18,Amazon,836.38,EUR,Credit,Pending
+2025-01-17,Amazon,677.9,USD,Debit,Completed
+2025-01-16,Card Payment,122.49,NGN,Credit,Pending
+2025-01-15,Card Payment,519.71,NGN,Debit,Pending
+2025-01-14,Amazon,456.09,USD,Debit,Failed
+2025-01-13,Amazon,33.66,NGN,Debit,Pending
+2025-01-12,Travel,116.65,USD,Credit,Pending
+2025-01-11,Travel,58.61,EUR,Debit,Failed
+2025-01-10,Amazon,185.23,EUR,Credit,Pending
+2025-01-09,Card Payment,730.53,USD,Credit,Completed
+2025-01-08,Amazon,799.34,EUR,Debit,Failed
+2025-01-07,Amazon,44.06,EUR,Credit,Completed
+2025-01-06,Amazon,354.96,USD,Credit,Pending
+2025-01-05,Travel,73.27,EUR,Credit,Failed
+2025-01-04,Card Payment,315.06,USD,Credit,Pending
+2025-01-03,Amazon,215.61,USD,Debit,Pending
+2025-01-02,Travel,351.01,NGN,Credit,Pending
+2025-01-01,Travel,410.66,EUR,Debit,Pending
+2024-12-31,Travel,637.8,USD,Credit,Completed
+2024-12-30,Card Payment,242.48,EUR,Credit,Completed
+2024-12-29,Card Payment,448.15,USD,Credit,Failed
+2024-12-28,Amazon,84.12,USD,Credit,Pending
+2024-12-27,Amazon,758.81,NGN,Credit,Failed
+2024-12-26,Travel,189.46,USD,Debit,Completed
+2024-12-25,Card Payment,132.16,NGN,Credit,Pending
+2024-12-24,Travel,291.97,NGN,Debit,Completed
+2024-12-23,Travel,87.75,EUR,Debit,Completed
+2024-12-22,Travel,765.06,USD,Credit,Failed
+2024-12-21,Amazon,389.71,EUR,Credit,Completed
+2024-12-20,Amazon,854.56,EUR,Credit,Completed
+2024-12-19,Travel,768.68,USD,Credit,Completed
+2024-12-18,Amazon,34.06,USD,Credit,Failed
+2024-12-17,Card Payment,516.06,NGN,Credit,Pending
+2024-12-16,Amazon,119.1,NGN,Credit,Failed
+2024-12-15,Amazon,465.53,USD,Debit,Failed
+2024-12-14,Amazon,753.52,USD,Credit,Pending
+2024-12-13,Card Payment,100.69,EUR,Credit,Completed
+2024-12-12,Travel,212.67,USD,Debit,Completed
+2024-12-11,Card Payment,304.83,NGN,Debit,Failed
+2024-12-10,Card Payment,229.16,USD,Credit,Failed
+2024-12-09,Amazon,633.42,USD,Debit,Pending
+2024-12-08,Amazon,955.0,USD,Debit,Pending
+2024-12-07,Amazon,66.79,USD,Debit,Completed
+2024-12-06,Amazon,889.26,EUR,Debit,Completed
+2024-12-05,Card Payment,820.45,USD,Debit,Failed
+2024-12-04,Amazon,333.91,USD,Credit,Completed
+2024-12-03,Card Payment,27.69,NGN,Debit,Completed
+2024-12-02,Travel,940.55,NGN,Credit,Completed
+2024-12-01,Travel,470.74,USD,Debit,Pending
+2024-11-30,Card Payment,528.49,USD,Credit,Failed
+2024-11-29,Card Payment,317.63,EUR,Debit,Pending
+2024-11-28,Amazon,558.26,EUR,Debit,Failed
+2024-11-27,Amazon,54.76,NGN,Credit,Failed
+2024-11-26,Travel,781.41,NGN,Credit,Completed
+2024-11-25,Amazon,525.49,NGN,Debit,Pending
+2024-11-24,Amazon,910.42,NGN,Debit,Completed
+2024-11-23,Travel,106.77,EUR,Credit,Failed
+2024-11-22,Travel,726.54,USD,Credit,Pending
+2024-11-21,Amazon,806.89,EUR,Debit,Pending
+2024-11-20,Travel,106.38,NGN,Debit,Failed
+2024-11-19,Card Payment,204.29,EUR,Debit,Completed
+2024-11-18,Amazon,111.99,NGN,Debit,Failed
+2024-11-17,Amazon,57.48,USD,Debit,Completed
+2024-11-16,Amazon,527.92,NGN,Debit,Completed
+2024-11-15,Amazon,863.76,NGN,Credit,Completed
+2024-11-14,Card Payment,999.76,NGN,Debit,Failed
+2024-11-13,Card Payment,765.6,USD,Credit,Failed
+2024-11-12,Amazon,508.75,NGN,Debit,Failed
+2024-11-11,Card Payment,36.2,USD,Debit,Pending
+2024-11-10,Card Payment,594.38,USD,Credit,Completed
+2024-11-09,Card Payment,378.38,USD,Credit,Pending
+2024-11-08,Card Payment,754.13,USD,Credit,Completed
+2024-11-07,Travel,779.13,USD,Debit,Completed
+2024-11-06,Amazon,953.29,USD,Credit,Completed
+2024-11-05,Amazon,595.64,USD,Credit,Failed
+2024-11-04,Amazon,242.72,NGN,Credit,Failed
+2024-11-03,Travel,22.27,NGN,Debit,Failed
+2024-11-02,Amazon,225.02,EUR,Credit,Pending
+2024-11-01,Amazon,563.97,NGN,Credit,Pending
+2024-10-31,Amazon,297.25,USD,Debit,Completed
+2024-10-30,Travel,122.34,EUR,Credit,Failed
+2024-10-29,Travel,484.31,USD,Debit,Completed
+2024-10-28,Travel,123.65,NGN,Debit,Completed
+2024-10-27,Card Payment,233.67,NGN,Debit,Pending
+2024-10-26,Card Payment,839.47,EUR,Credit,Pending
+2024-10-25,Travel,462.27,EUR,Debit,Failed
+2024-10-24,Travel,716.31,USD,Credit,Pending
+2024-10-23,Amazon,779.43,USD,Debit,Pending
+2024-10-22,Travel,890.17,EUR,Debit,Completed
+2024-10-21,Travel,498.2,NGN,Debit,Completed
+2024-10-20,Amazon,867.0,EUR,Credit,Failed
+2024-10-19,Card Payment,455.7,USD,Credit,Failed
+2024-10-18,Card Payment,544.32,USD,Credit,Failed
+2024-10-17,Travel,319.57,USD,Credit,Completed
+2024-10-16,Card Payment,29.76,NGN,Credit,Pending
+2024-10-15,Card Payment,932.51,EUR,Credit,Failed
+2024-10-14,Amazon,943.78,USD,Credit,Completed
+2024-10-13,Card Payment,362.49,EUR,Debit,Completed
+2024-10-12,Amazon,761.22,NGN,Debit,Pending
+2024-10-11,Card Payment,753.97,USD,Debit,Failed
+2024-10-10,Card Payment,20.91,EUR,Debit,Completed
+2024-10-09,Travel,721.64,NGN,Credit,Failed
+2024-10-08,Amazon,796.54,USD,Credit,Pending
+2024-10-07,Card Payment,84.95,NGN,Debit,Completed
+2024-10-06,Card Payment,477.2,USD,Debit,Pending
+2024-10-05,Travel,584.85,NGN,Debit,Completed
+2024-10-04,Travel,171.66,EUR,Debit,Completed
+2024-10-03,Card Payment,726.34,NGN,Debit,Failed
+2024-10-02,Card Payment,850.56,USD,Credit,Completed
+2024-10-01,Travel,766.95,NGN,Credit,Failed
+2024-09-30,Card Payment,455.63,USD,Credit,Completed
+2024-09-29,Card Payment,599.16,USD,Credit,Failed
+2024-09-28,Travel,613.45,EUR,Credit,Failed
+2024-09-27,Card Payment,948.89,NGN,Debit,Failed
+2024-09-26,Amazon,388.75,USD,Debit,Completed
+2024-09-25,Amazon,882.12,USD,Debit,Failed
+2024-09-24,Amazon,642.23,EUR,Credit,Pending
+2024-09-23,Card Payment,403.66,EUR,Credit,Completed
+2024-09-22,Card Payment,491.29,EUR,Credit,Pending
+2024-09-21,Amazon,282.75,EUR,Credit,Completed
+2024-09-20,Travel,47.05,USD,Debit,Pending
+2024-09-19,Card Payment,471.44,USD,Debit,Pending
+2024-09-18,Card Payment,544.09,USD,Debit,Pending
+2024-09-17,Travel,964.95,EUR,Credit,Completed
+2024-09-16,Travel,316.45,EUR,Credit,Pending
+2024-09-15,Amazon,903.16,EUR,Credit,Pending
+2024-09-14,Travel,214.62,EUR,Debit,Completed
+2024-09-13,Travel,747.85,EUR,Debit,Completed
+2024-09-12,Travel,56.39,USD,Debit,Pending
+2024-09-11,Travel,780.21,EUR,Credit,Completed
+2024-09-10,Amazon,410.71,USD,Credit,Pending
+2024-09-09,Card Payment,431.2,USD,Debit,Completed
+2024-09-08,Travel,657.47,USD,Debit,Completed
+2024-09-07,Card Payment,917.88,EUR,Credit,Pending
+2024-09-06,Travel,614.56,USD,Debit,Completed
+2024-09-05,Travel,865.69,NGN,Credit,Pending
+2024-09-04,Travel,381.94,NGN,Debit,Pending
+2024-09-03,Travel,59.98,NGN,Debit,Pending
+2024-09-02,Travel,778.53,EUR,Credit,Pending
+2024-09-01,Amazon,444.79,EUR,Debit,Completed
+2024-08-31,Travel,392.32,NGN,Debit,Completed
+2024-08-30,Amazon,278.06,USD,Debit,Pending
+2024-08-29,Amazon,999.18,USD,Debit,Failed
+2024-08-28,Amazon,379.2,NGN,Debit,Pending
+2024-08-27,Travel,65.92,EUR,Credit,Completed
+2024-08-26,Card Payment,870.18,USD,Debit,Completed
+2024-08-25,Amazon,987.69,NGN,Credit,Failed
+2024-08-24,Card Payment,241.58,EUR,Debit,Failed
+2024-08-23,Card Payment,492.7,NGN,Credit,Completed
+2024-08-22,Amazon,935.31,USD,Credit,Completed
+2024-08-21,Amazon,317.47,EUR,Credit,Pending
+2024-08-20,Amazon,87.62,NGN,Debit,Failed
+2024-08-19,Amazon,597.79,EUR,Debit,Completed
+2024-08-18,Travel,162.65,EUR,Debit,Completed
+2024-08-17,Travel,815.98,NGN,Credit,Pending
+2024-08-16,Travel,665.46,NGN,Credit,Pending
+2024-08-15,Travel,234.56,USD,Debit,Pending
+2024-08-14,Card Payment,562.35,USD,Credit,Failed
+2024-08-13,Amazon,444.32,NGN,Debit,Completed
+2024-08-12,Travel,66.55,NGN,Debit,Failed
+2024-08-11,Travel,692.92,NGN,Debit,Completed
+2024-08-10,Travel,228.96,USD,Debit,Failed
+2024-08-09,Travel,596.54,NGN,Credit,Completed
+2024-08-08,Travel,490.91,NGN,Credit,Failed
+2024-08-07,Travel,277.96,NGN,Credit,Failed
+2024-08-06,Card Payment,178.32,NGN,Debit,Completed
+2024-08-05,Amazon,948.89,EUR,Credit,Completed
+2024-08-04,Card Payment,669.16,NGN,Credit,Failed
+2024-08-03,Travel,955.97,NGN,Debit,Pending
+2024-08-02,Travel,528.5,USD,Credit,Failed

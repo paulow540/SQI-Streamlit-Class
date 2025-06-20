@@ -1,0 +1,11 @@
+Date,Details,Amount,Currency,Debit/Credit,Status
+2025-05-28,Transaction 1,411.35,EUR,Debit,Completed
+2025-05-27,Transaction 2,301.07,NGN,Debit,Pending
+2025-05-26,Transaction 3,710.31,USD,Debit,Completed
+2025-05-25,Transaction 4,816.8,USD,Debit,Failed
+2025-05-24,Transaction 5,283.96,USD,Credit,Failed
+2025-05-23,Transaction 6,797.6,EUR,Debit,Failed
+2025-05-22,Transaction 7,961.34,NGN,Debit,Pending
+2025-05-21,Transaction 8,250.65,EUR,Debit,Failed
+2025-05-20,Transaction 9,903.7,EUR,Credit,Failed
+2025-05-19,Transaction 10,31.28,USD,Debit,Completed

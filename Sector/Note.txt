@@ -1,0 +1,5 @@
+pip install venu  
+C:\Users\Administrator>python -m venv streamEnv
+C:\Users\Administrator>streamEnv\Scripts\activate
+(streamEnv) C:\Users\Administrator>pip install streamlit 
+
