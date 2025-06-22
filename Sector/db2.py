@@ -107,12 +107,12 @@ elif operation == "Delete":
 
 
 
-username = st.text_input("Username")
-password = st.text_input("Password", type="password")
+# username = st.text_input("Username")
+# password = st.text_input("Password", type="password")
 
-if username == "admin" and password == "pass123":
-    st.success("Access granted.")
-    # show app content
-else:
-    st.warning("Enter valid credentials.")
-    st.stop()
+# if username == "admin" and password == "pass123":
+#     st.success("Access granted.")
+#     # show app content
+# else:
+#     st.warning("Enter valid credentials.")
+#     st.stop()
